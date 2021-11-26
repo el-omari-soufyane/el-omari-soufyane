@@ -12,9 +12,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Enterprise Treasury managment app
+- 🔭 I’m currently studying
 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Symfony 
 
 - 👯 I’m looking to collaborate on  
 
